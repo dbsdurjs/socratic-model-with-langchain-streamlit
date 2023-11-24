@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered"
 )
 
-openai_api_key = "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"
+openai_api_key = "openai-key"
 
 st.title('명령어를 입력해주세요')
 
