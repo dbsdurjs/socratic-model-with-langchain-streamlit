@@ -17,12 +17,24 @@ pip install gsutil
 pip install typing-extensions --upgrade
 ```
 
-langchain 사용을 위해 openai key 발급(Command page와 socratic model execute page)
+### langchain 사용을 위해 openai key 발급(Command page와 socratic model execute page)
 ```
 openai_api_key = "your_openai_key"
 ```
 
-메인 페이지 실행 명령어
+### 메인 페이지 실행 명령어
 ```
 streamlit run '.\Command page.py'
 ```
+
+### 결과물
+![command page](./images/Command page)
+![execute page](./images/execute page)
+![step 1 page](./images/1 step execute)
+![step 2 page](./images/2 step execute)
+![error step page](./images/error step execute)
+![step 4 page](./images/4 step execute)
+![step 5 page](./images/5 step execute)
+![step 6 page](./images/6 step execute)
+
+
