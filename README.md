@@ -1,6 +1,6 @@
 # socratic-model-with-langchain-streamlit
 
-'''
+```
 pip install ftfy regex tqdm fvcore imageio==2.4.1 imageio-ffmpeg==0.4.5
 pip install git+https://github.com/openai/CLIP.git
 pip install -U --no-cache-dir gdown --pre
@@ -14,4 +14,4 @@ pip install IPython
 pip install matplotlib
 pip install gsutil
 pip install typing-extensions --upgrade
-'''
+```
