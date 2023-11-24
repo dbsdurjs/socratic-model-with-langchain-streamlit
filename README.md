@@ -16,3 +16,8 @@ pip install matplotlib
 pip install gsutil
 pip install typing-extensions --upgrade
 ```
+
+langchain 사용을 위해 openai key 발급
+```
+openai_api_key = "your_openai_key"
+```
