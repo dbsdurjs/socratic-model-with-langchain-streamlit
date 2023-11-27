@@ -32,12 +32,20 @@ streamlit run '.\Command page.py'
 <p align="center">
   
   <img src="./images/Command page.PNG">
+  -------------------------------------
   <img src="./images/execute page.PNG">
+  -------------------------------------
   <img src="./images/1 step execute.PNG">
+  -------------------------------------
   <img src="./images/2 step execute.PNG">
+  -------------------------------------
   <img src="./images/error step execute.PNG">
+  -------------------------------------
   <img src="./images/4 step execute.PNG">
+  -------------------------------------
   <img src="./images/5 step execute.PNG">
+  -------------------------------------
   <img src="./images/6 step execute.PNG">
+  -------------------------------------
   
 </p>
