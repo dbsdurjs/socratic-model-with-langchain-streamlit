@@ -34,14 +34,13 @@ streamlit run '.\Command page.py'
   
   #### 명령어 페이지
   <img src="./images/Command page.PNG">
-  
-  ***
+  -------------------------------------
 
 
   #### 실행 페이지
   <img src="./images/execute page.PNG">
   
-  ***
+  -------------------------------------
 
 
   #### 첫 번째 단계
