@@ -30,7 +30,6 @@ streamlit run '.\Command page.py'
 ## 결과물
 
 <p align="center">
-  -------------------------------------
   
   #### 명령어 페이지
   <img src="./images/Command page.PNG">
