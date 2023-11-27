@@ -28,20 +28,16 @@ streamlit run '.\Command page.py'
 ```
 
 ### 결과물
-![command page](images/Command page.PNG)
 
-![execute page](./images/execute page.PNG)
-
-![step 1 page](./images/1 step execute.PNG)
-
-![step 2 page](./images/2 step execute.PNG)
-
-![error step page](./images/error step execute.PNG)
-
-![step 4 page](./images/4 step execute.PNG)
-
-![step 5 page](./images/5 step execute.PNG)
-
-![step 6 page](./images/6 step execute.PNG)
-
-
+<p align="center">
+  
+  <img src="./images/Command page.PNG">
+  <img src="./images/execute page.PNG">
+  <img src="./images/1 step execute.PNG">
+  <img src="./images/2 step execute.PNG">
+  <img src="./images/error step execute.PNG">
+  <img src="./images/4 step execute.PNG">
+  <img src="./images/5 step execute.PNG">
+  <img src="./images/6 step execute.PNG">
+  
+</p>
