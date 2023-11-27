@@ -28,7 +28,7 @@ streamlit run '.\Command page.py'
 ```
 
 ### 결과물
-![command page](../images/Command page.PNG)
+![command page](images/Command page.PNG)
 
 ![execute page](./images/execute page.PNG)
 
