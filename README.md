@@ -31,7 +31,7 @@ streamlit run '.\Command page.py'
 
 <p align="center">
   
-  명령어 페이지
+  ### 명령어 페이지
   <img src="./images/Command page.PNG">
   -------------------------------------
 
