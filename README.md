@@ -7,7 +7,8 @@
 **사용자의 편리함**을 위해 streamlit을 사용
 
 
-초기 실행 시
+## 초기 실행 시
+
 ``` python
 pip install ftfy regex tqdm fvcore imageio==2.4.1 imageio-ffmpeg==0.4.5
 pip install git+https://github.com/openai/CLIP.git
