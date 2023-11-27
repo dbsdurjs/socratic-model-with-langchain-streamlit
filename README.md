@@ -1,7 +1,9 @@
 # socratic-model-with-langchain-streamlit
 
 기존 socratic model에 langchain과 streamlit을 적용
+
 사용자가 한국어로 입력을 하게 되면 langchain을 통해 번역이 되고 agent의 tool끼리 서로 상호작용 후 socratic model을 실행
+
 사용자의 편리함을 위해 streamlit을 사용
 
 
