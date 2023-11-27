@@ -45,31 +45,37 @@ streamlit run '.\Command page.py'
 
   #### 첫 번째 단계
   <img src="./images/1 step execute.PNG">
+  
   -------------------------------------
 
 
   #### 두 번째 단계
   <img src="./images/2 step execute.PNG">
+  
   -------------------------------------
 
 
   #### 에러 단계(고의로 발생시킴)
   <img src="./images/error step execute.PNG">
+  
   -------------------------------------
 
 
   #### 네 번째 단계
   <img src="./images/4 step execute.PNG">
+  
   -------------------------------------
 
   
   #### 다섯 번째 단계
   <img src="./images/5 step execute.PNG">
+  
   -------------------------------------
 
 
   #### 여섯 번째 단계
   <img src="./images/6 step execute.PNG">
+  
   -------------------------------------
   
 </p>
